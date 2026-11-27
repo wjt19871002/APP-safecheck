@@ -3,7 +3,7 @@
      <img src="./icon.png" width="96" height="96" alt="幸福传承 APP 图标" />
      <h1>幸福传承（SafeCheck）</h1>
      <p><strong>日常安全签到 · 手机端加密备忘 · 授权关怀提醒</strong></p>
-     <p>Android APP 与微信小程序双端互通，让生活更安心，让世界多一份牵挂</p>
+     <p>让生活更安心，让世界多一份牵挂</p>
    </div>
 
    ---
