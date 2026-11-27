@@ -51,6 +51,7 @@
    ```text
    文件名：safecheck-2.3.0.apk
    SHA256：98094a8091f5a4c088153528e8ed4bd1ca4ee390514fc2e45aa0162264ee09dc
+   ```
 
    ---
 
