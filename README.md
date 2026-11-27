@@ -4,14 +4,6 @@
      <h1>幸福传承（SafeCheck）</h1>
      <p><strong>日常安全签到 · 手机端加密备忘 · 本人授权关怀提醒</strong></p>
      <p>Android APP 与微信小程序双端互通，让生活更安心，让家人少一份牵挂</p>
-
-     <p>
-       <a href="https://github.com/<你的GitHub用户名>/<公开仓库名>/releases/latest">
-         <img src="https://img.shields.io/badge/Android-v2.3.0%20下载-07C160?style=for-the-badge&logo=android&logoColor=white" alt="下载 Android v2.3.0" />
-       </a>
-       <img src="https://img.shields.io/badge/加密标准-AES--256--GCM-blue?style=for-the-badge" alt="AES-256-GCM" />
-       <img src="https://img.shields.io/badge/工信部备案-渝ICP备2026029588号--2A-lightgrey?style=for-the-badge" alt="ICP 备案" />
-     </p>
    </div>
 
    ---
