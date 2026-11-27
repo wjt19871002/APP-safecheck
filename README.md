@@ -1,5 +1,4 @@
-```markdown
-   <div align="center">
+<div align="center">
      <!-- 如在公开仓库放了图标，把路径改为实际位置，例如 ./icon.png -->
      <img src="./icon.png" width="96" height="96" alt="幸福传承 APP 图标" />
      <h1>幸福传承（SafeCheck）</h1>
@@ -65,4 +64,3 @@
    ```text
    文件名：safecheck-2.3.0.apk
    SHA256：98094a8091f5a4c088153528e8ed4bd1ca4ee390514fc2e45aa0162264ee09dc
- ```
