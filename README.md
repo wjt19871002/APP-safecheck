@@ -10,8 +10,7 @@
          <img src="https://img.shields.io/badge/Android-v2.3.0%20下载-07C160?style=for-the-badge&logo=android&logoColor=white" alt="下载 Android v2.3.0" />
        </a>
        <img src="https://img.shields.io/badge/加密标准-AES--256--GCM-blue?style=for-the-badge" alt="AES-256-GCM" />
-       <img src="https://img.shields.io/badge/工信部备案-渝ICP备2026029588号--2A-lightgrey?style=for-the-badge" alt="ICP 备案
- " />
+       <img src="https://img.shields.io/badge/工信部备案-渝ICP备2026029588号--2A-lightgrey?style=for-the-badge" alt="ICP 备案" />
      </p>
    </div>
 
@@ -51,8 +50,7 @@
 
    - **当前最新版本**：`v2.3.0`（安装包大小约 `26 MB`，支持 Android 手机覆盖升级保留本地数据）
    - **GitHub Releases 官方下载**：
-     👉 [点击下载 最新版安APK装包]([[https://github.com/<你的GitHub用户名>/<公开仓库名
- >/releases/latest/download/safecheck-2.3.0.apk](https://github.com/wjt19871002/APP-safecheck/releases/tag/safecheck)](https://github.com/wjt19871002/APP-safecheck/releases/tag/safecheck))
+     👉 [点击下载 最新版安APK装包](https://github.com/wjt19871002/APP-safecheck/releases/tag/safecheck))
    - **国内备用直链（如访问 GitHub 较慢可使用）**：
      👉 [国内下载通道（safecheck-2.3.0.apk）](https://api.xingfu.icu/downloads/safecheck-2.3.0.apk)
 
