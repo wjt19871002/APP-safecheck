@@ -1,4 +1,3 @@
-# APP-safecheck
 ```markdown
    <div align="center">
      <!-- 如在公开仓库放了图标，把路径改为实际位置，例如 ./icon.png -->
